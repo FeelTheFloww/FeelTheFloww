@@ -45,7 +45,7 @@ Passionate about **Machine Learning**, **financial markets**, and **quantitative
 ## 📊 GitHub stats
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FeelTheFloww&show_icons=true&theme=default&hide_border=true&count_private=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=FeelTheFloww&show_icons=true&theme=default&hide_border=true&count_private=true&hide_rank=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FeelTheFloww&layout=compact&hide_border=true&hide=c" />
 </p>
 
