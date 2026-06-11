@@ -33,9 +33,12 @@ Passionate about **Machine Learning**, **financial markets**, and **quantitative
 
 ## 🛠️ Technical skills
 
-**Languages** — Python (NumPy, Pandas, SciPy, scikit-learn, PyTorch/TRL), Java, C++, SQL, MATLAB
-**ML / Quant** — LoRA fine-tuning (DPO, PPO, RAG), time-series modeling, Monte Carlo methods, stochastic processes
-**Engineering** — FastAPI, Flask, Docker, GitLab CI/CD, Git, REST APIs, pytest, Linux
+**Machine Learning & Deep Learning** — supervised & unsupervised learning, feature engineering, ensemble methods (Random Forest, XGBoost), time-series analysis, anomaly detection, reinforcement learning, model evaluation & cross-validation, statistical modeling
+**LLMs & Alignment** — DPO, RLHF (PPO), RAG, LoRA/PEFT, Hugging Face Transformers, TRL, sentence-transformers, FAISS
+**Quantitative Finance** — derivatives pricing (Black–Scholes, Heston), Monte Carlo methods, stochastic processes, implied volatility modeling
+**Programming** — Python (PyTorch, TensorFlow, NumPy, Pandas, scikit-learn, SciPy, Matplotlib, Flask, FastAPI), C, C++, Java, R, MATLAB, JavaScript, Bash
+**Databases & Tools** — SQL, MongoDB, Redis, Git, Docker, GitLab CI/CD, Jupyter, wandb, Power BI, Tableau
+**Languages** — French (native), English (B2+), Chinese (A2)
 
 ## 📚 Research & learning
 
