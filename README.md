@@ -28,6 +28,9 @@ Passionate about **Machine Learning**, **financial markets**, and **quantitative
 - **[gaussian-blur](https://github.com/FeelTheFloww/gaussian-blur)** — Gaussian blur in Java/Maven: naive 2D convolution vs. separable 1D vs. multithreaded implementation.
 - **[devkit](https://github.com/FeelTheFloww/devkit)** — AI-powered CLI orchestrating gh, git, Claude and Gemini for daily developer workflows.
 
+### Industry work (private)
+- **LLM-Based Adversarial System — CIAM Security (ReachFive)** — Simulation framework using LLMs to generate adaptive attack scenarios (credential stuffing, low-and-slow, jittered patterns) against a customer identity platform, paired with a defense layer combining rule-based logic and statistical anomaly detection (adaptive thresholds). Evaluated on attack success rate, detection coverage and user friction. *Code private (industry partnership).*
+
 ## 🚧 In progress
 - **Algorithmic trading bot** — rule-based strategy execution with risk controls.
 
@@ -64,6 +67,8 @@ Passionate about **Machine Learning**, **financial markets**, and **quantitative
 Passionné de **Machine Learning**, de **marchés financiers** et de **modélisation quantitative**.
 
 **Projets phares** : pricing d'options et volatilité implicite sur données réelles ([black-scholes-empirical-study](https://github.com/FeelTheFloww/black-scholes-empirical-study)), détection de régimes de stress de marché par ML ([market-stress-regime-detection](https://github.com/FeelTheFloww/market-stress-regime-detection)), modèle de Heston ([heston-model](https://github.com/FeelTheFloww/heston-model)), alignement éthique de petits LLM — DPO vs RLHF vs RAG ([adl-ethics](https://github.com/FeelTheFloww/adl-ethics)), et une stack DevOps complète de supervision système ([monitoring-server](https://github.com/FeelTheFloww/monitoring-server), [monitoring-dashboard](https://github.com/FeelTheFloww/monitoring-dashboard), [deployment-puller](https://github.com/FeelTheFloww/deployment-puller)).
+
+**Travail en entreprise** : système adversarial à base de LLM pour la sécurité CIAM (ReachFive) — génération d'attaques adaptatives et détection d'anomalies statistique (code privé).
 
 **Stage de recherche** à l'Institut Camille Jordan : processus stochastiques, théorie de la mesure, mouvement brownien, simulations de Monte Carlo.
 
